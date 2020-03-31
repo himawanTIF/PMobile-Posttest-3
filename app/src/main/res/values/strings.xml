@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Posttest3</string>
+    <string name="form">FORM DATA DIRI</string>
+    <string name="nim">NIM :</string>
+    <string name="input_nim">Masukkan NIM Anda</string>
+    <string name="nama">Nama :</string>
+    <string name="input_nama">Masukkan Nama Anda</string>
+    <string name="kelas">Kelas :</string>
+    <string name="radioA">A</string>
+    <string name="radioB">B</string>
+    <string name="radioC">C</string>
+    <string name="radioD">D</string>
+    <string name="radioE">E</string>
+    <string name="slot">Slot :</string>
+    <string name="input_slot">Masukkan Slot Anda</string>
+    <string name="hobi">Hobi :</string>
+    <string name="hobi_futsal">Futsal</string>
+    <string name="hobi_badminton">Badminton</string>
+    <string name="hobi_basket">Basket</string>
+    <string name="hobi_volley">Volley</string>
+    <string name="hobi_esports">E-Sports</string>
+    <string name="btn_submit">SUBMIT</string>
+
+    <string name="hobi_anda">Hobi :</string>
+    <string name="kelas_anda">Kelas :</string>
+    <string name="slot_anda">Slot :</string>
+    <string name="nama_anda">Nama :</string>
+    <string name="nim_anda">NIM :</string>
+    <string name="tampil_data">Tampil Data Isi Form</string>
+</resources>
